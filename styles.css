@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div {
+    background-color: bisque;
+    color: #1212c4;
+    font-size: large;
+}
+
+div.index {
+    color: orangered;
+}
+
+.index {
+    color: #483d8b;
+}
+
+h1.index {
+    font-style: italic;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+
